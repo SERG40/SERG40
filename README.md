@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=6000&lines=Hi%2C+I'm+Sergey.+Junior+Python+Developer.)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=6000&lines=Hi%2C+I'm+Sergey.+Python+Developer.)](https://git.io/typing-svg)<br>
 Databases: <br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br>
 Education: <br>
